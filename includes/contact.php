@@ -23,8 +23,8 @@
                 <div class="text-center mt-4">
                     <p class="text-muted">Ou contacte-me diretamente:</p>
                     <p>
-                        <a href="mailto:vasco@example.com" class="text-decoration-none">vasco@example.com</a><br>
-                        <a href="tel:+351912345678" class="text-decoration-none">+351 91 234 5678</a>
+                        <a href="mailto:vascoferreira@cybercore.pt" class="text-decoration-none">vascoferreira@cybercore.pt</a><br>
+                        <a href="tel:+351926434055" class="text-decoration-none">+351 926 434 055</a>
                     </p>
                 </div>
             </div>

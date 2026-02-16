@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // Send email (replace with your email)
-    $to = 'vasco@example.com';
+    $to = 'vascoferreira@cybercore.pt';
     $subject = "Nova mensagem de $name";
     $body = "Nome: $name\nEmail: $email\n\nMensagem:\n$message";
     $headers = "From: $email\r\nReply-To: $email";

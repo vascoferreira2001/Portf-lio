@@ -5,12 +5,12 @@
             <?php
                 $projects = [
                     [
-                        'title' => 'E-commerce Platform',
-                        'description' => 'Plataforma de e-commerce completa com carrinho de compras e pagamentos integrados.',
+                        'title' => 'CyberCore Website & CRM',
+                        'description' => 'Website Institucional da CyberCore + Área de Cliente (CRM)',
                         'technologies' => 'PHP, MySQL, Bootstrap',
                         'icon' => 'fa-shopping-cart',  // Usar icon OU image
                         'image' => null,  // ou 'img/project1.jpg'
-                        'link' => 'https://exemplo.com/ecommerce'
+                        'link' => 'https://www.cybercore.pt/'
                     ],
                     [
                         'title' => 'Task Management App',

@@ -45,73 +45,6 @@ portfolio/
 └── README.md
 ```
 
-## 🚀 Como Usar
-
-### Localmente
-
-1. **Clone o repositório:**
-```bash
-git clone https://github.com/vascoferreira2001/Portf-lio.git
-cd portfolio
-```
-
-2. **Inicie um servidor PHP local:**
-```bash
-php -S localhost:8000
-```
-
-3. **Acesse no navegador:**
-```
-http://localhost:8000
-```
-
-### Deploy no Plesk (Windows Server)
-
-1. **Configure o domínio no Plesk**
-
-2. **Clone via SSH ou upload via SFTP:**
-```bash
-cd C:\Inetpub\vhosts\cybercore.pt\vascoferreira.cybercore.pt
-git clone https://github.com/vascoferreira2001/Portf-lio.git .
-```
-
-3. **Configure o Document Root:**
-   - No Plesk: **Domains** > seu domínio > **Home**
-   - **Document Root:** `/vascoferreira.cybercore.pt`
-   - **Default Document:** `index.php`
-
-4. **Acesse o site:**
-```
-https://vascoferreira.cybercore.pt
-```
-
-Consulte [PLESK_DEPLOYMENT.md](PLESK_DEPLOYMENT.md) para instruções detalhadas.
-
-## 📝 Personalização
-
-### Alterar Informações Pessoais
-
-1. **Nome e Título:** Edite `includes/hero.php`
-2. **Sobre Mim:** Edite `includes/about.php`
-3. **Habilidades:** Edite `includes/skills.php`
-4. **Projetos:** Edite `includes/projects.php`
-5. **Email/Telefone:** Edite `includes/contact.php`
-
-### Adicionar Suas Imagens
-
-Substitua as imagens na pasta `img/`:
-- `profile.jpg` - Foto de perfil
-- `programmer-night.jpg` - Fundo do hero
-- `programmer-laptop.jpg` - Imagem da seção sobre
-
-### Atualizar Redes Sociais
-
-Edite os links em:
-- `includes/hero.php` (redes sociais no banner)
-- `includes/footer.php` (redes sociais no rodapé)
-
-## 🎨 Seções
-
 ### 🏠 Hero
 Banner principal com foto de fundo, perfil e call-to-action
 
@@ -130,21 +63,6 @@ Formulário funcional com validação
 ### 🔗 Footer
 Links rápidos e redes sociais
 
-## 📧 Configurar Email no Formulário
-
-Edite `includes/contact_handler.php` e altere:
-```php
-$to = 'seu-email@example.com';
-```
-
-## 🔄 Atualizar o Site
-
-```bash
-# No servidor
-cd C:\Inetpub\vhosts\cybercore.pt\vascoferreira.cybercore.pt
-git pull
-```
-
 ## 🎯 Browser Support
 
 - ✅ Chrome
@@ -155,7 +73,7 @@ git pull
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
+Este projeto não pode ser copiado visto ser o meu Portfólio Oficial. 
 
 ## 👤 Autor
 
@@ -163,7 +81,4 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
 - Website: [vascoferreira.cybercore.pt](https://vascoferreira.cybercore.pt)
 - GitHub: [@vascoferreira2001](https://github.com/vascoferreira2001)
 
----
-
-⭐ Se gostaste, dá uma estrela ao projeto!
 
