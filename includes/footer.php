@@ -17,16 +17,16 @@
             <div class="col-lg-4 mb-4">
                 <h5>Redes Sociais</h5>
                 <div class="d-flex gap-3">
-                    <a href="https://facebook.com" target="_blank" class="text-light text-decoration-none" title="Facebook">
+                    <a href="https://www.facebook.com/VascoFerreira2001/" target="_blank" class="text-light text-decoration-none" title="Facebook">
                         <i class="fab fa-facebook fa-lg"></i>
                     </a>
-                    <a href="https://instagram.com" target="_blank" class="text-light text-decoration-none" title="Instagram">
+                    <a href="https://www.instagram.com/vascoferreira.webdev/" target="_blank" class="text-light text-decoration-none" title="Instagram">
                         <i class="fab fa-instagram fa-lg"></i>
                     </a>
-                    <a href="https://linkedin.com" target="_blank" class="text-light text-decoration-none" title="LinkedIn">
+                    <a href="https://www.linkedin.com/in/vascoferreira2001/" target="_blank" class="text-light text-decoration-none" title="LinkedIn">
                         <i class="fab fa-linkedin fa-lg"></i>
                     </a>
-                    <a href="https://github.com" target="_blank" class="text-light text-decoration-none" title="GitHub">
+                    <a href="https://github.com/vascoferreira2001" target="_blank" class="text-light text-decoration-none" title="GitHub">
                         <i class="fab fa-github fa-lg"></i>
                     </a>
                 </div>

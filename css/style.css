@@ -197,15 +197,16 @@ body {
 }
 
 /* About Section */
-.placeholder-img {
+.about-image img {
     width: 100%;
-    height: 300px;
+    height: auto;
     border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 3rem;
-    color: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.about-image img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
 }
 
 /* Skill Cards */
@@ -321,10 +322,6 @@ section {
 
     .hero-section p {
         font-size: 1rem;
-    }
-
-    .placeholder-img {
-        height: 200px;
     }
 
     .social-icon {

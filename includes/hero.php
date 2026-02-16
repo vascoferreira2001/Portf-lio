@@ -22,16 +22,16 @@
                         </a>
                     </div>
                     <div class="social-links justify-content-center">
-                        <a href="https://facebook.com" target="_blank" class="social-icon" title="Facebook">
+                        <a href="https://www.facebook.com/VascoFerreira2001/" target="_blank" class="social-icon" title="Facebook">
                             <i class="fab fa-facebook"></i>
                         </a>
-                        <a href="https://instagram.com" target="_blank" class="social-icon" title="Instagram">
+                        <a href="https://www.instagram.com/vascoferreira.webdev/" target="_blank" class="social-icon" title="Instagram">
                             <i class="fab fa-instagram"></i>
                         </a>
-                        <a href="https://linkedin.com" target="_blank" class="social-icon" title="LinkedIn">
+                        <a href="https://www.linkedin.com/in/vascoferreira2001/" target="_blank" class="social-icon" title="LinkedIn">
                             <i class="fab fa-linkedin"></i>
                         </a>
-                        <a href="https://github.com" target="_blank" class="social-icon" title="GitHub">
+                        <a href="https://github.com/vascoferreira2001" target="_blank" class="social-icon" title="GitHub">
                             <i class="fab fa-github"></i>
                         </a>
                     </div>

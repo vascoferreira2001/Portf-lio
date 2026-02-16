@@ -4,7 +4,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4">
                 <div class="about-image">
-                    <div class="placeholder-img bg-secondary rounded"></div>
+                    <img src="img/programmer-laptop.jpg" alt="Desenvolvedor trabalhando" class="img-fluid rounded shadow">
                 </div>
             </div>
             <div class="col-lg-6">
