@@ -237,6 +237,8 @@ body {
 .project-card {
     transition: all 0.3s ease;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 .project-card:hover {
@@ -245,16 +247,34 @@ body {
 }
 
 .project-image {
-    min-height: 150px;
+    min-height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
+    position: relative;
+}
+
+.project-img {
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.project-card:hover .project-img {
+    transform: scale(1.05);
 }
 
 .project-card h4 {
     color: #333;
     font-weight: 600;
-    margin-bottom: 10px;
+}
+
+.project-card .btn {
+    transition: all 0.3s ease;
+}
+
+.project-card .btn:hover {
+    transform: translateX(5px);
 }
 
 /* Contact Section */

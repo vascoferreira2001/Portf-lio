@@ -8,11 +8,12 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <h3 class="mb-3">Desenvolvedor Apaixonado</h3>
+                <h3 class="mb-3">Desenvolvedor Apaixonado por Tecnologia</h3>
                 <p class="text-muted mb-3">
-                    Sou um desenvolvedor full stack com experiência em criar aplicações web modernas e responsivas. 
-                    Tenho competências sólidas em frontend e backend, sempre procurando aprender novas tecnologias 
-                    e melhores práticas de desenvolvimento.
+                    Olá, meu nome é Vasco Ferreira e sou um desenvolvedor web dedicado a criar soluções digitais que fazem a diferença.
+                    <br>Tirei Mestrado em Mestrado em Engenharia de Tecnologias e Sistemas Web no ISLA em Gaia. 
+                    Adoro desenvolver websites e dar vida a ideias através do código.
+                    <br>Trabalho muito bem com frontend e com AI interligada com o desenvolvimento web.
                 </p>
                 <p class="text-muted mb-3">
                     Gosto de trabalhar em projetos desafiantes que me permitem crescer profissionalmente e contribuir 
@@ -20,15 +21,15 @@
                 </p>
                 <div class="d-flex gap-5">
                     <div>
-                        <h4 class="text-primary">5+</h4>
+                        <h4 class="text-primary">2+</h4>
                         <p class="text-muted">Anos de Experiência</p>
                     </div>
                     <div>
-                        <h4 class="text-primary">20+</h4>
+                        <h4 class="text-primary">5+</h4>
                         <p class="text-muted">Projetos Completos</p>
                     </div>
                     <div>
-                        <h4 class="text-primary">15+</h4>
+                        <h4 class="text-primary">10+</h4>
                         <p class="text-muted">Clientes Satisfeitos</p>
                     </div>
                 </div>
