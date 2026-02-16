@@ -1,6 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Modo standalone para Plesk/Windows
+  output: 'standalone',
+  
   // Otimizações para produção
   reactStrictMode: true,
   
@@ -38,10 +41,7 @@ const nextConfig: NextConfig = {
   },
 
   // Configuração para Plesk/Windows
-  experimental: {
-    // Otimizações de build
-    optimizePackageImports: ["framer-motion"],
-  },
+  experimental: {},
 };
 
 export default nextConfig;
