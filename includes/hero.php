@@ -9,7 +9,7 @@
                         <img src="img/profile.jpg" alt="Vasco Ferreira" class="img-fluid">
                     </div>
                     <h1 class="display-3 fw-bold mb-3 text-white">Vasco Ferreira</h1>
-                    <h3 class="h3 mb-4 text-light fw-light">Desenvolvedor Full Stack</h3>
+                    <h3 class="h3 mb-4 text-light fw-light">Desenvolvedor</h3>
                     <p class="lead text-light mb-4">
                         Transformo ideias em soluções web inovadoras com paixão e tecnologia
                     </p>
@@ -22,14 +22,17 @@
                         </a>
                     </div>
                     <div class="social-links justify-content-center">
-                        <a href="https://github.com" target="_blank" class="social-icon" title="GitHub">
-                            <i class="fab fa-github"></i>
+                        <a href="https://facebook.com" target="_blank" class="social-icon" title="Facebook">
+                            <i class="fab fa-facebook"></i>
+                        </a>
+                        <a href="https://instagram.com" target="_blank" class="social-icon" title="Instagram">
+                            <i class="fab fa-instagram"></i>
                         </a>
                         <a href="https://linkedin.com" target="_blank" class="social-icon" title="LinkedIn">
                             <i class="fab fa-linkedin"></i>
                         </a>
-                        <a href="https://twitter.com" target="_blank" class="social-icon" title="Twitter">
-                            <i class="fab fa-twitter"></i>
+                        <a href="https://github.com" target="_blank" class="social-icon" title="GitHub">
+                            <i class="fab fa-github"></i>
                         </a>
                     </div>
                 </div>

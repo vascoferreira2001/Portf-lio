@@ -17,14 +17,17 @@
             <div class="col-lg-4 mb-4">
                 <h5>Redes Sociais</h5>
                 <div class="d-flex gap-3">
-                    <a href="https://github.com" target="_blank" class="text-light text-decoration-none">
-                        <i class="fab fa-github fa-lg"></i>
+                    <a href="https://facebook.com" target="_blank" class="text-light text-decoration-none" title="Facebook">
+                        <i class="fab fa-facebook fa-lg"></i>
                     </a>
-                    <a href="https://linkedin.com" target="_blank" class="text-light text-decoration-none">
+                    <a href="https://instagram.com" target="_blank" class="text-light text-decoration-none" title="Instagram">
+                        <i class="fab fa-instagram fa-lg"></i>
+                    </a>
+                    <a href="https://linkedin.com" target="_blank" class="text-light text-decoration-none" title="LinkedIn">
                         <i class="fab fa-linkedin fa-lg"></i>
                     </a>
-                    <a href="https://twitter.com" target="_blank" class="text-light text-decoration-none">
-                        <i class="fab fa-twitter fa-lg"></i>
+                    <a href="https://github.com" target="_blank" class="text-light text-decoration-none" title="GitHub">
+                        <i class="fab fa-github fa-lg"></i>
                     </a>
                 </div>
             </div>
