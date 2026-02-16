@@ -1,25 +1,44 @@
-<section id="home" class="hero-section min-vh-100 d-flex align-items-center justify-content-center bg-gradient">
-    <div class="container text-center">
-        <div class="hero-content">
-            <h1 class="display-4 fw-bold mb-4 text-white">Olá, Sou Vasco Ferreira</h1>
-            <p class="lead text-light mb-4">
-                Desenvolvedor Full Stack com paixão por criar soluções web inovadoras
-            </p>
-            <div class="d-flex gap-3 justify-content-center flex-wrap">
-                <a href="#projects" class="btn btn-primary btn-lg">Ver Projetos</a>
-                <a href="#contact" class="btn btn-outline-light btn-lg">Entrar em Contacto</a>
-            </div>
-            <div class="social-links mt-5">
-                <a href="https://github.com" target="_blank" class="social-icon">
-                    <i class="fab fa-github"></i>
-                </a>
-                <a href="https://linkedin.com" target="_blank" class="social-icon">
-                    <i class="fab fa-linkedin"></i>
-                </a>
-                <a href="https://twitter.com" target="_blank" class="social-icon">
-                    <i class="fab fa-twitter"></i>
-                </a>
+<section id="home" class="hero-section min-vh-100 d-flex align-items-center justify-content-center">
+    <div class="hero-background"></div>
+    <div class="hero-overlay"></div>
+    <div class="container position-relative">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <div class="hero-content">
+                    <div class="profile-circle mb-4">
+                        <img src="img/profile.jpg" alt="Vasco Ferreira" class="img-fluid">
+                    </div>
+                    <h1 class="display-3 fw-bold mb-3 text-white">Vasco Ferreira</h1>
+                    <h3 class="h3 mb-4 text-light fw-light">Desenvolvedor Full Stack</h3>
+                    <p class="lead text-light mb-4">
+                        Transformo ideias em soluções web inovadoras com paixão e tecnologia
+                    </p>
+                    <div class="d-flex gap-3 justify-content-center flex-wrap mb-5">
+                        <a href="#projects" class="btn btn-primary btn-lg px-4">
+                            <i class="fas fa-briefcase me-2"></i>Ver Projetos
+                        </a>
+                        <a href="#contact" class="btn btn-outline-light btn-lg px-4">
+                            <i class="fas fa-envelope me-2"></i>Contactar
+                        </a>
+                    </div>
+                    <div class="social-links justify-content-center">
+                        <a href="https://github.com" target="_blank" class="social-icon" title="GitHub">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="https://linkedin.com" target="_blank" class="social-icon" title="LinkedIn">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                        <a href="https://twitter.com" target="_blank" class="social-icon" title="Twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
+    </div>
+    <div class="scroll-indicator">
+        <a href="#about" class="text-white text-decoration-none">
+            <i class="fas fa-chevron-down fa-2x animate-bounce"></i>
+        </a>
     </div>
 </section>
