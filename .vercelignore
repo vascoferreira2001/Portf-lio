@@ -1,6 +1,0 @@
-# Vercel ignore
-.git
-.gitignore
-README.md
-.env.example
-.eslintrc.json
